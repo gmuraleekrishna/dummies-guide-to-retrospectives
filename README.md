@@ -1,12 +1,18 @@
 Dummies guide to retrospectives
 ===============================
+Adaptations of [James Shore](https://twitter.com/jamesshore)'s awesome book on retrospectives
+
+##The truth
 
 ![Your product](http://imgur.com/8TgT1iG.jpg)
 
 
 > Way to go, little buddy. I knew you had it in you.  - Metro man
 
-#Why?!
+#Why?! 
+
+> Ask James. - James 
+
 We continually improve our work habits.
 No process is perfect. Your team is unique, as are the situations you encounter, and they change all the time. You must continually update your process to match your changing situations. Retrospectives are a great tool for doing so.
 
