@@ -1,13 +1,23 @@
 Dummies guide to retrospectives
 ===============================
 
-> Should've known you tried to crash the party! - Metro man
+![Your product](http://imgur.com/8TgT1iG.jpg)
+
+
+> Way to go, little buddy. I knew you had it in you.  - Metro man
 
 #Why?!
 We continually improve our work habits.
 No process is perfect. Your team is unique, as are the situations you encounter, and they change all the time. You must continually update your process to match your changing situations. Retrospectives are a great tool for doing so.
 
 The retrospective serves two purposes: sharing ideas gives the team a chance to grow closer, and coming up with a specific solution gives the team a chance to improve.
+
+###The world of dante
+
+![How to - retrospectives](http://i.imgur.com/aGsBYDG.jpg)
+
+Image: http://www.jamesshore.com/Agile-Book/retrospectives.html
+
 
 #Schedule
 Let's break the bread into 3 unequal parts
