@@ -90,11 +90,16 @@ Regardless of what we discover today, we understand and truly believe that every
 Group members write cards to represent memorable, personally meaningful, or otherwise significant events during the iteration, release, or project and then post them in (roughly) chronological order. The retrospective leader supports the team to discuss the events to understand facts and feelings during the iteration, release, or project
 
 Steps
-	1. Ask people to think back over the iteration/release/project and remember all the memorable, personally meaningful, or significant events and write them down, one per card or sticky note.
-	Remind the group that the point is to see many perspectives—so they don’t arrive at a consensus of what was memorable, meaningful, or significant. If it was any of those to one person, that’s enough.
-	1. Monitor the level of activity as people start talking about events and writing cards. If people haven’t started writing cards after half the time has elapsed, remind them to start writing.
-	1. When the groups have a stack of cards, invite people to start posting them
-	1. When all the cards are posted, invite the team to walk by the timeline and see what others have posted. It’s OK for people to add new cards at this point as they remember more events.
+
+1. Ask people to think back over the iteration/release/project and remember all the memorable, personally meaningful, or significant events and write them down, one per card or sticky note.
+
+1. Remind the group that the point is to see many perspectives—so they don’t arrive at a consensus of what was memorable, meaningful, or significant. If it was any of those to one person, that’s enough.
+
+1. Monitor the level of activity as people start talking about events and writing cards. If people haven’t started writing cards after half the time has elapsed, remind them to start writing.
+
+1. When the groups have a stack of cards, invite people to start posting them
+
+1. When all the cards are posted, invite the team to walk by the timeline and see what others have posted. It’s OK for people to add new cards at this point as they remember more events.
 
 ##Step 3: Brainstorm
 
