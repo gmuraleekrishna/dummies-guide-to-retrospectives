@@ -111,6 +111,7 @@ If everyone agrees to the Prime Directive, hand out index cards and pencils, the
 -	More
 -	Less
 
+An online version of a retro white board can be used http://funretro.github.io/distributed/
 ###Guidelines:
 
 - Strive for quantity. Best ideas rarely come first.
@@ -158,4 +159,6 @@ http://www.jamesshore.com/Agile-Book/retrospectives.html
 http://agile.2ia.net/Agile%20Retrospectives.pdf
 
 http://www.funretrospectives.com/category/retrospective/
+
+https://github.com/funretro/distributed/blob/master/README.md
 
