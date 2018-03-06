@@ -80,7 +80,8 @@ Send an event invite to all the attendees through slack or email or set a calend
 >	a.k.a Norm Kerth's Prime Directive
 
 Retro Man reads the following to the team members.
-Regardless of what we discover today, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+
+*"Regardless of what we discover today, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."*
 
 ## Step 2: Timeline
 ### Why?!
@@ -138,7 +139,7 @@ We need to identify the top two to three root causes to work on starting in the 
 
 Finally, after you have circled and named all the categories, vote on which categories to improve during the next iteration. Voting shall be done by drawing tally marks against each group. Give each person five votes. Participants can put all their votes on one category if they wish, or spread their votes amongst several categories.
 
-##Step 6: Retrospective objective
+## Step 6: Retrospective objective
 After the voting ends, one category should be the clear winner. If not, don't spend too much time on it; flip a coin or something.
 Discard the cards from the other categories. If someone wants to take a card to work on individually, that's fine, but not necessary. Remember, you'll do another retrospective next week. Important issues will recur.
 
