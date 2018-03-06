@@ -76,7 +76,7 @@ Retro Man has to select and book a retro venue. Retro venue should be equipped w
 Send an event invite to all the attendees through slack or email or set a calendar invite if possible. The event description should include time and venue.
 
 # Retro
-## Step 1: The prime directive 
+## Step 1: The Prime directive 
 >	a.k.a Norm Kerth's Prime Directive
 
 Retro Man reads the following to the team members.
@@ -87,6 +87,8 @@ Retro Man reads the following to the team members.
 ### Why?!
 
 > Stimulate memories of what happened during the increment of work.
+
+If everyone agrees to the Prime directive, hand out index cards and pencils.
 
 Group members write cards to represent memorable, personally meaningful, or otherwise significant events during the iteration, release, or project and then post them in (roughly) chronological order. The retrospective leader supports the team to discuss the events to understand facts and feelings during the iteration, release, or project
 
@@ -104,22 +106,25 @@ Steps
 
 ## Step 3: Brainstorm
 
-If everyone agrees to the Prime Directive, hand out index cards and pencils, then write the following headings on the whiteboard:
+Hand out Stickys and sketch pens/sharpies to the participants.
+Draw a tabe on the board with 6 equal columns. Write the following headings on the whiteboard:
 -	Enjoyable
 -	Frustrating
 -	Puzzling
 -	Same
--	More
--	Less
+-	Need More
+-	Need Less
+
+In the stickys, each participant has to write down atleast one incident that come under the aforementioned classification. The notes should be short and sweet.
 
 An online version of a retro white board can be used http://funretro.github.io/distributed/
 ### Guidelines:
 
 - Strive for quantity. Best ideas rarely come first.
 - Offer all ideas, nothing is silly.
--	Be outrageous, wild, humorous, creative.
--	No judging, evaluating or criticizing. Filter comes later.
--	Be lucid.
+- Be outrageous, wild, humorous, creative.
+- No judging, evaluating or criticizing. Filtering comes later.
+- Be lucid.
 
 ## Step 4: Mute mapping
 
