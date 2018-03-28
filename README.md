@@ -83,6 +83,8 @@ Retro Man reads the following to the team members.
 
 *"Regardless of what we discover today, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."*
 
+If all the participants understand and agree to the prime directive, they should say "I agree"
+
 ## Step 2: Timeline (10 mins)
 ### Why?!
 
